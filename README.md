@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @MathiasF1do
-- 👀 I’m interested in Networking, linux, docker, Python
-- 🌱 I’m currently learning Networking, linux, and a litte Python
+- 👋 Hi, I’m Mathias
+- 👀 I’m interested in Networking, linux, docker, Python, Servers, html, php, Javascript and more stuff
 - 📫 How to reach me https://discord.gg/eNmnB35Zk3 on discord
