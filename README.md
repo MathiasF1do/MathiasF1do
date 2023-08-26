@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Mathias
-- 👀 I’m interested in Networking, linux, docker, Python, Servers, html, php, Javascript and more stuff
-- 📫 How to reach me? You don't I reach you.
